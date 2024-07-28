@@ -9,6 +9,7 @@ public class TemplatePattern extends FoodOrder {
         jacket.template();
 
         System.out.println("  ");
+        System.out.println("  SYNC   ");
 
         FoodOrder burger = new FoodOrder("pizza","visa",100 , customer );
         burger.template();
