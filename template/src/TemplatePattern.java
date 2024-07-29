@@ -16,14 +16,3 @@ public class TemplatePattern extends FoodOrder {
 
     }
 }
-
-/*
-
-Project Idea: E-commerce Order Processing and Notification System
-Description: Develop a comprehensive system for an e-commerce platform that processes orders and
-sends notifications to users at each step. Each type of order
-will follow a common order processing workflow
- (e.g., validating the order, processing the payment, preparing the delivery, sending notifications).
- The Template Pattern will define the skeleton of the order processing workflow,
-
-*/
